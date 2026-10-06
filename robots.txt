@@ -1,0 +1,13 @@
+User-agent: Yandex
+Disallow: /cart/
+Disallow: /favorites/
+Disallow: /account/
+Allow: /
+
+User-agent: Googlebot
+Disallow: /cart/
+Disallow: /favorites/
+Disallow: /account/
+Allow: /
+
+Sitemap: https://naturebite.ru/sitemap.xml
